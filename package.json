@@ -1,0 +1,18 @@
+{
+  "name": "afl-league-bot",
+  "version": "1.0.0",
+  "description": "Discord league management bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "keywords": ["discord", "league", "bot"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  }
+}
