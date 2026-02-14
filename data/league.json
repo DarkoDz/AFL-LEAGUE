@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "transferMarketEnabled": false,
+    "maxPlayersPerTeam": 25
+  },
+  "teams": {},
+  "signups": [],
+  "offers": [],
+  "stats": {},
+  "trades": []
+}
